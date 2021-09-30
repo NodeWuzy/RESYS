@@ -30,3 +30,4 @@ RESYS程序使用控制体建模的系统建模方法，通过对反应堆系统
    xml_input/index.rst
    algorithm/index.rst
    develop/index.rst
+   example/index.rst

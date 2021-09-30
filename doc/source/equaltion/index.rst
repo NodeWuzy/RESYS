@@ -20,3 +20,14 @@ RESYS程序使用通常计算流体力学中使用的 ``欧拉法`` 描述控制
    :caption: Contents:
 
    singlephase.rst
+   sevenEquationTowPhase.rst
+
+
+
+
+
+
+
+
+
+

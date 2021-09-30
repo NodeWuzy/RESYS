@@ -55,11 +55,6 @@ RESYS程序的输入文件的结构如下：
          <!--这个输入模块内部输入回路的设置-->
          ...
         </loop>
-
-        <heatStructure> 
-          <!-- 这个输入模块内部输入热结构信息 -->
-          ...
-        </heatStructure>
         
         <executioner>
           <!--这个输入模块内部输入求解设置-->
@@ -68,10 +63,13 @@ RESYS程序的输入文件的结构如下：
 
     </problem>
 
+
+``<component>``
+
+
 .. toctree::
    :maxdepth: 1
-   :caption: 输入指南:
-
+   
    component.rst
    thermionic.rst
 
